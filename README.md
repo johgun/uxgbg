@@ -1,2 +1,4 @@
 # uxgbg
-Website
+Static site for UXGBG Slack channel
+
+By @nahoj
